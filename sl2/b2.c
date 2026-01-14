@@ -8,6 +8,6 @@ int main (){
  t=a+b;
  printf("a=%d\n",a);
  printf("b=%.3f\n",b);
- printf("%d+%.3f=%.3f\n",a,b,a+b);
+ printf("%d+%.3f=%.3f\n",a,b,(float)a+b);
 	return 0;
 }
