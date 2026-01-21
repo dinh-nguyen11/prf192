@@ -20,7 +20,6 @@ int main (){
 		   t = 1550;
 		   //printf("so tien :%d",t);
 		   }
-		   T=t*N;
- printf("so tien :%d",T);
+ printf("so tien :%d",t);
  return 0;
 }
