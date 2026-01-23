@@ -1,4 +1,4 @@
-//khai bao kieu ki tu tên kt, khởi gán giá trị cho biến này 
+	//khai bao kieu ki tu tên kt, khởi gán giá trị cho biến này 
 //In  ra :giá trị của biến;
 // giá trị thập phân, giá trị hex, giá trị octal
 // kích thước dữ liệu của biến kt
