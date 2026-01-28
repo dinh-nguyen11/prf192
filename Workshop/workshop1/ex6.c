@@ -16,8 +16,13 @@ int main (){
 	       }else if (T<5.5 && T>4){
 	     	diemchu='D';
 	         }else diemchu='F';
+	         
 	if (cc>=4 && gk>=4 && ck>=4 && diemchu !='F'){
 		printf("BAN DU DIEU KIEN TOT NGHIEP!");
 	     }else printf("BAN KHONG DU DIEU KIEN TOT NGHIEP!");
 return 0;
 }
+
+
+
+
