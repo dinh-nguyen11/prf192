@@ -1,0 +1,7 @@
+Gia tri n: 2
+ 101
+ Nguyen
+ 5.5
+ 102
+ Luan
+ 5.6
